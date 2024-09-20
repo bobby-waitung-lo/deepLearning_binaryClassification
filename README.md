@@ -1,10 +1,13 @@
 # deepLearning_binaryClassification
 
-This is a Neural Network model to predict hotel cancellations with a binary classifier using TensorFlow and Keras library.
+This is a demonstration of SQL query nested and repeated data and draw interesting insights from the [GitHub Repos](https://www.kaggle.com/github/github-repos) dataset using Google BigQuery.
 
-The dataset is stored in Kaggle "../input/dl-course-data/hotel.csv".
+The dataset is stored in [Kaggle GitHub Repos](https://www.kaggle.com/github/github-repos) dataset..
 
-The Jupyter Notebook is stored in exercise-binary-classification.ipynb.
+The Jupyter Notebook is stored in Exercise: Nested and Repeated Data.ipynb.
+
+Tech Stack:
+SQL, Google BigQuery, Python, Jupyter
 
 Credits
 Author: Bobby
